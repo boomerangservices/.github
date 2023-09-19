@@ -12,7 +12,4 @@ Looking to report a bug? You can do so over on our Discord server via the [#issu
 ---
 
 ### 📋 Service Credits
-This service was created meticulously by:
-Summerlytz (Lead Developer)
-sv_lord5 (Developer)
-soundfade (Retired Developer & Co Founder)
+This service was created by Summerlytz (Lead Developer), sv_lord5 (Developer) and soundfade (Retired Developer & Co Founder).
