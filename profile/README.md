@@ -6,6 +6,6 @@ Boomerang is a versatile and customisable bot created to simplify community admi
   <h2><strong>Service Credits</strong></h2>
 </div>
 
-This service was founded in July of 2023 by **adamsdecease** and **summerly**.
+This service was founded in July of 2023 by **fwnadam** and **summerly**.
 
-At present, the service is owned by **summerly** who leads deveopment, aided by developers **adamsdecease** and **sv_lord5**.
+At present, the service is owned by **summerly** who leads deveopment, aided by developers **fwnadam** and **sv_lord5**.
